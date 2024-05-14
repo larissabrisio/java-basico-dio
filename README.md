@@ -1,2 +1,2 @@
-# java-basico-dio
-Projeto que receberá dados de uma conta bancária. 
+# Projeto DIO | Java básico
+Projeto que receberá dados de uma conta bancária.
